@@ -1,0 +1,458 @@
+From: "Guardado por Internet Explorer 11"
+Subject: 
+Date: Thu, 14 Jun 2018 20:44:27 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://balsamiq.cloud/sn7f96h/pg7rl5s/r7A13
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+=EF=BB=BF<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "" ""><HTML lang=3D"en"><HEAD><META =
+content=3D"IE=3D11.0000"=20
+http-equiv=3D"X-UA-Compatible">
+    =20
+<META charset=3D"utf-8">    =20
+<META name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1, shrink-to-fit=3Dno">=20
+                <LINK =
+href=3D"https://media.balsamiq.com/favicon/apple-touch-icon.png?v=3DoLaq3=
+OObPg"=20
+rel=3D"apple-touch-icon" sizes=3D"180x180">             <LINK =
+href=3D"https://media.balsamiq.com/favicon/favicon-32x32.png?v=3DoLaq3OOb=
+Pg"=20
+rel=3D"icon" type=3D"image/png" sizes=3D"32x32">             <LINK =
+href=3D"https://media.balsamiq.com/favicon/favicon-16x16.png?v=3DoLaq3OOb=
+Pg"=20
+rel=3D"icon" type=3D"image/png" sizes=3D"16x16">             <LINK =
+href=3D"https://media.balsamiq.com/favicon/manifest.json?v=3DoLaq3OObPg" =
+
+rel=3D"manifest">             <LINK =
+href=3D"https://media.balsamiq.com/favicon/safari-pinned-tab.svg?v=3DoLaq=
+3OObPg"=20
+rel=3D"mask-icon" color=3D"#000000">             <LINK =
+href=3D"https://media.balsamiq.com/favicon/favicon.ico?v=3DoLaq3OObPg"=20
+rel=3D"shortcut icon">            =20
+<META name=3D"msapplication-config" =
+content=3D"https://media.balsamiq.com/favicon/browserconfig.xml?v=3DoLaq3=
+OObPg">=20
+           =20
+<META name=3D"theme-color" content=3D"#eeeeee">            =20
+<STYLE nonce=3D"randomizeMe">=0A=
+        /* RESET */=0A=
+        /* Box */=0A=
+        html {=0A=
+            box-sizing: border-box;=0A=
+        }=0A=
+        *, *:before, *:after {=0A=
+            margin: 0;=0A=
+            padding: 0;=0A=
+            box-sizing: inherit;=0A=
+        }=0A=
+        html, body, div, span, p, a, em, img {=0A=
+            margin: 0;=0A=
+            padding: 0;=0A=
+            border: 0;=0A=
+        }=0A=
+=0A=
+        /* Base */=0A=
+        html,body {=0A=
+            background: #F0F0F0;=0A=
+        }=0A=
+=0A=
+        #loading-mask * {=0A=
+            font-size: 16px;=0A=
+            line-height: 24px;=0A=
+        }=0A=
+        #loading-mask html,=0A=
+        #loading-mask body,=0A=
+        #loading-mask div,=0A=
+        #loading-mask p,=0A=
+        #loading-mask span,=0A=
+        #loading-mask a {=0A=
+            font-family: Helvetica, Arial, sans-serif;=0A=
+            font-size: 16px !important;=0A=
+            line-height: 24px !important;=0A=
+        }=0A=
+=0A=
+        #loading-mask p {=0A=
+            margin: 0 0 24px 0;=0A=
+        }=0A=
+=0A=
+        #loading-mask a {=0A=
+            color: #067BBA;=0A=
+            text-decoration: none;=0A=
+        }=0A=
+=0A=
+        /* Loaders */=0A=
+        #loading-mask {=0A=
+            margin: auto;=0A=
+            text-align: center;=0A=
+            position: absolute;=0A=
+            top: 0;=0A=
+            left: 0;=0A=
+            height: 100%;=0A=
+            width: 100%;=0A=
+            z-index: 10000;=0A=
+            opacity: 0;=0A=
+        }=0A=
+        #loading-mask.load {=0A=
+            background: #F0F0F0;=0A=
+            opacity: 1;=0A=
+            transition: opacity .25s ease-in-out;=0A=
+            -moz-transition: opacity .25s ease-in-out;=0A=
+            -webkit-transition: opacity .25s ease-in-out;=0A=
+        }=0A=
+=0A=
+        .loading-mask-container {=0A=
+            // top: 50%;=0A=
+            // left: 50%;=0A=
+            // transform: translate(-50%, -300px);=0A=
+            // position: absolute;=0A=
+            margin: 36px auto 0 auto;=0A=
+            padding: 0 15px;=0A=
+            max-width: 640px;=0A=
+        }=0A=
+        @media (min-width: 768px) {=0A=
+            .loading-mask-container {=0A=
+                margin-top: 150px;=0A=
+            }=0A=
+        }=0A=
+        /* Logo */=0A=
+        #smiley {=0A=
+            margin: 0;=0A=
+            padding: 0;=0A=
+            width: 120px;=0A=
+            height: 120px;=0A=
+        }=0A=
+=0A=
+        /* Status and progress bar */=0A=
+        /* Progressbar */=0A=
+        .progress-loader {=0A=
+            margin: auto;=0A=
+            text-align: center;=0A=
+        }=0A=
+        .progressbar-container {=0A=
+            box-sizing: inherit;=0A=
+            background-color: #eee;=0A=
+            border: 1px solid #ddd;=0A=
+            border-radius: 2px;=0A=
+            box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25) inset;=0A=
+            margin: 16px auto;=0A=
+            height: 12px;=0A=
+            width: 200px;=0A=
+            position: relative;=0A=
+        }=0A=
+        .progressbar-bar {=0A=
+            background: #3D9BE8;=0A=
+            border-radius: 2px;=0A=
+            display: block;=0A=
+            height: 10px;=0A=
+            top: 0;=0A=
+            left: 0px;=0A=
+            position: absolute;=0A=
+            max-width: 200px;=0A=
+            overflow: hidden;=0A=
+        }=0A=
+        /* Indeterminate */=0A=
+        .progressbar-indeterminate > .progressbar-bar:after {=0A=
+            content: "";=0A=
+            position: absolute;=0A=
+            top: 0; left: 0; bottom: 0; right: 0;=0A=
+            background-image: linear-gradient(=0A=
+                -45deg,=0A=
+                rgba(255, 255, 255, .2) 25%,=0A=
+                transparent 25%,=0A=
+                transparent 50%,=0A=
+                rgba(255, 255, 255, .2) 50%,=0A=
+                rgba(255, 255, 255, .2) 75%,=0A=
+                transparent 75%,=0A=
+                transparent=0A=
+            );=0A=
+            z-index: 1;=0A=
+            background-size: 50px 50px;=0A=
+            animation: move 2s linear infinite;=0A=
+            border-top-right-radius: 8px;=0A=
+            border-bottom-right-radius: 8px;=0A=
+            border-top-left-radius: 20px;=0A=
+            border-bottom-left-radius: 20px;=0A=
+            overflow: hidden;=0A=
+        }=0A=
+        .progressbar-indeterminate .progressbar-container > =
+.progressbar-bar:after,=0A=
+        .progressbar-indeterminate .animate > .progressbar-bar > span {=0A=
+            content: "";=0A=
+            margin: 0;=0A=
+            padding: 0;=0A=
+            position: absolute;=0A=
+            top: 0;=0A=
+            left: 0;=0A=
+            bottom: 0;=0A=
+            right: 0;=0A=
+            background-image: -webkit-gradient(=0A=
+                linear, 0 0, 100% 100%,=0A=
+                color-stop(.25, rgba(255, 255, 255, .2)),=0A=
+                color-stop(.25, transparent), color-stop(.5, =
+transparent),=0A=
+                color-stop(.5, rgba(255, 255, 255, .2)),=0A=
+                color-stop(.75, rgba(255, 255, 255, .2)),=0A=
+                color-stop(.75, transparent), to(transparent)=0A=
+            );=0A=
+            background-image: -moz-linear-gradient(=0A=
+                -45deg,=0A=
+                rgba(255, 255, 255, .2) 25%,=0A=
+                transparent 25%,=0A=
+                transparent 50%,=0A=
+                rgba(255, 255, 255, .2) 50%,=0A=
+                rgba(255, 255, 255, .2) 75%,=0A=
+                transparent 75%,=0A=
+                transparent=0A=
+            );=0A=
+            z-index: 1;=0A=
+            -webkit-background-size: 50px 50px;=0A=
+            -moz-background-size: 50px 50px;=0A=
+            background-size: 50px 50px;=0A=
+            -webkit-animation: move 2s linear infinite;=0A=
+            -moz-animation: move 2s linear infinite;=0A=
+            -webkit-border-top-right-radius: 8px;=0A=
+            -webkit-border-bottom-right-radius: 8px;=0A=
+            -moz-border-radius-topright: 8px;=0A=
+            -moz-border-radius-bottomright: 8px;=0A=
+            border-top-right-radius: 8px;=0A=
+            border-bottom-right-radius: 8px;=0A=
+            -webkit-border-top-left-radius: 20px;=0A=
+            -webkit-border-bottom-left-radius: 20px;=0A=
+            -moz-border-radius-topleft: 20px;=0A=
+            -moz-border-radius-bottomleft: 20px;=0A=
+            border-top-left-radius: 20px;=0A=
+            border-bottom-left-radius: 20px;=0A=
+            overflow: hidden;=0A=
+        }=0A=
+        .animate > span:after {=0A=
+            display: none;=0A=
+        }=0A=
+        @-webkit-keyframes move {=0A=
+            0% {=0A=
+                background-position: 0 0;=0A=
+            }=0A=
+            100% {=0A=
+                background-position: 50px 50px;=0A=
+            }=0A=
+        }=0A=
+        @-moz-keyframes move {=0A=
+            0% {=0A=
+                background-position: 0 0;=0A=
+            }=0A=
+            100% {=0A=
+                background-position: 50px 50px;=0A=
+            }=0A=
+        }=0A=
+=0A=
+        /* Quotes */=0A=
+        .uxquotes {=0A=
+            border-top: 1px solid #ddd;=0A=
+            border-bottom: 1px solid #ddd;=0A=
+            font-family: Helvetica, Arial, sans-serif !important;=0A=
+            padding: 24px 0 0 0;=0A=
+            margin-top: 24px;=0A=
+        }=0A=
+        .uxquotes .quote-text {=0A=
+            font-family: Helvetica, Arial, sans-serif !important;=0A=
+            font-size: 18px;=0A=
+            line-height: 21px;=0A=
+        }=0A=
+        .uxquotes .quote-url a {=0A=
+            background: rgba(255,255,255,.4);=0A=
+            border-radius: 5px;=0A=
+            display: inline-block;=0A=
+            font-family: Helvetica, Arial, sans-serif !important;=0A=
+            font-size: 14px;=0A=
+            padding: 4px 8px;=0A=
+        }=0A=
+=0A=
+    </STYLE>
+=20
+<META name=3D"GENERATOR" content=3D"MSHTML 11.00.10570.1001"></HEAD>=20
+<BODY>
+<DIV id=3D"main" style=3D"height: 100%;" =
+data-config=3D'{"appID":"app-6ef98268-c3d3","browserId":"bro-c5210fad-984=
+6","serverAddress":"https://balsamiq.cloud","user":{"id":881864565},"user=
+LoginType":"email","stripePublishableKey":"pk_MW6WgKfTZK2bb0tdRvzpsX1B0bd=
+BM","graphQLUrl":"/graphql","environment":"production","routeName":"site_=
+project_resource","routeParams":{"siteId":1403191097,"projectId":98050326=
+4,"shortResourceId":"7A13"},"basServerUrl":"https://bas20.balsamiq.com","=
+collectRTE":true,"verbosePubnubLog":false,"uxQuotes":[{"quote":"Design =
+is about humans creating great works that help or improve the lives of =
+other humans, often in profound ways, and often in ways that are quite =
+small and go unnoticed","author":"Garr =
+Reynolds","url":"http://www.inspireux.com/2008/04/03/design-helps-or-impr=
+oves-the-lives-of-other-humans/"},{"quote":"Even the best designers =
+produce successful products only if their designs solve the right =
+problems. A wonderful interface to the wrong features will =
+fail.","author":"Jakob =
+Nielsen","url":"http://www.inspireux.com/2008/04/06/a-wonderful-interface=
+-to-the-wrong-features-will-fail/"},{"quote":"The best user experiences =
+are enchanting.  They help the user enter an alternate reality, whether =
+it=E2=80=99s the world of making music, writing, sharing photos, coding, =
+or managing a project.","author":"Kathy =
+Sierra","url":"http://www.inspireux.com/2008/04/18/the-best-user-experien=
+ces-are-enchanting/"},{"quote":"You can design and create, and build the =
+most wonderful place in the world. But it takes people to make the dream =
+a reality","author":"Walt =
+Disney","url":"http://www.inspireux.com/2008/04/30/it-takes-people-to-mak=
+e-your-dreams-reality/"},{"quote":"Making the simple complicated is =
+commonplace; making the complicated simple, awesomely simple, =
+that=E2=80=99s creativity","author":"Charles =
+Mingus","url":"http://www.inspireux.com/2008/05/07/simplicity-vs-clarity/=
+"},{"quote":"Like all forms of design, visual design is about problem =
+solving, not about personal preference or unsupported =
+opinion.","author":"Making the Web Work: Designing Effective Web =
+Applications by Bob =
+Baxley","url":"http://www.inspireux.com/2008/06/02/visual-design-is-about=
+-problem-solving/"},{"quote":"When a business defies the traditional, =
+when it =E2=80=98colors outside the lines,=E2=80=99 customers often =
+receive exceptional experiences.","author":"The Starbucks Experience by =
+Joseph A. =
+Michelli","url":"http://www.inspireux.com/2008/06/16/defy-the-traditional=
+-and-color-outside-the-lines/"},{"quote":"Good design must necessarily, =
+in my opinion, have an impact on people=E2=80=99s lives, no matter how =
+seemingly small. Good design changes things.","author":"Garr =
+Reynolds","url":"http://www.inspireux.com/2008/06/30/good-design-must-hav=
+e-an-impact-on-peoples-lives/"},{"quote":"Information architecture helps =
+make sure that business needs and user needs are met, leaving everyone =
+happy, and isn=E2=80=99t that really what it=E2=80=99s all =
+about?","author":"Jeff =
+Lash","url":"http://www.inspireux.com/2008/07/02/information-architecture=
+-helps-make-sure-that-business-and-user-needs-are-met/"},{"quote":"Perfec=
+tion is achieved not when there is nothing left to add, but when there =
+is nothing left to take away","author":"Antoine de =
+Saint-Exupery","url":"http://www.inspireux.com/2008/07/14/a-designer-achi=
+eves-perfection-when-there-is-nothing-left-to-take-away/"},{"quote":"When=
+ creating great experiences, it=E2=80=99s not so much about doing what =
+users expect. Instead, it=E2=80=99s about creating a design that clearly =
+meets their needs at the instant they need it.","author":"Jared =
+Spool","url":"http://www.inspireux.com/2008/07/23/meet-your-users-needs-a=
+t-the-instant-they-need-it/"},{"quote":"Give users what they actually =
+want, not what they say they want.  And whatever you do, don=E2=80=99t =
+give them new features just because your competitors have =
+them!","author":"Kathy =
+Sierra","url":"http://www.inspireux.com/2008/07/28/give-users-what-they-a=
+ctually-want/"},{"quote":"Confusion and clutter are the failure of =
+design, not the attributes of information.","author":"Edward R. =
+Tufte","url":"http://www.inspireux.com/2008/08/13/confusion-and-clutter-a=
+re-the-failure-of-design-not-the-attributes-of-information/"},{"quote":"I=
+f we want users to like our software, we should design it to behave like =
+a likeable person.","author":"Alan =
+Cooper","url":"http://www.inspireux.com/2008/08/18/design-software-to-beh=
+ave-like-a-likeable-person/"},{"quote":"Provide an experience that is =
+both useful, usable, desirable, and differentiated and you will create =
+demand for your brand and delight your customers.","author":"David =
+Armano","url":"http://www.inspireux.com/2008/09/10/provide-an-experience-=
+that-is-useful-usable-desirable-and-differentiated/"},{"quote":"An =
+experience designer must love and care about people and the world in =
+which we all live. It=E2=80=99s his mission in the world to proudly =
+spread love and happiness through his creations.","author":"Andr=C3=AB =
+Braz","url":"http://www.inspireux.com/2008/09/19/an-experience-designer-m=
+ust-love-and-care-about-people-and-the-world/"},{"quote":"In our vast =
+search-driven Web, visual design can help people move beyond first =
+impressions and into meaningful interactions.","author":"Luke =
+Wroblewski","url":"http://www.inspireux.com/2008/10/08/visual-design-can-=
+move-people-into-meaningful-interactions/"},{"quote":"Design is about =
+demonstrating how beautiful something can be. It has a very profound =
+quality. Design is a way of changing life and influencing the =
+future.","author":"Sir Ernest =
+Hall","url":"http://www.inspireux.com/2008/10/15/design-is-a-way-of-chang=
+ing-life-and-influencing-the-future/"},{"quote":"Observe how your users =
+approach information, consider what it means, and design to allow them =
+to achieve what they need.","author":"Donna =
+Spencer","url":"http://www.inspireux.com/2008/10/20/design-to-allow-users=
+-to-achieve-what-they-need/"},{"quote":"Features are meaningless. They =
+mean nothing to users. A coherent product user interface is the product =
+to users.","author":"Kim =
+Goodwin","url":"http://www.inspireux.com/2008/10/22/a-coherent-product-us=
+er-interface-is-the-product-to-users/"},{"quote":"Design creates =
+stories, and stories create memorable experiences, and great experiences =
+have this innate ability to change the way in which we view our =
+world.","author":"Christian =
+Saylor","url":"http://www.inspireux.com/2008/10/27/great-experiences-have=
+-an-innate-ability-to-change-the-way-we-view-the-world/"}],"toast":[],"pu=
+bnubSubscribeKey":"sub-c-f3d7d142-c416-11e4-9ffe-02ee2ddab7fe"}'></DIV>
+<DIV id=3D"loading-mask">
+<DIV class=3D"loading-mask-container"><IMG id=3D"smiley" src=3D"">       =
+      <!-- Determinate -->=20
+           =20
+<DIV id=3D"progress-loader">
+<DIV id=3D"page-loader-status"></DIV>
+<DIV class=3D"progressbar-determinate" id=3D"determinate-page-loader" =
+style=3D"display: none;">
+<DIV class=3D"progressbar-container">
+<DIV class=3D"progressbar-bar" id=3D"page-progressbar"=20
+style=3D"width: 0%;"></DIV></DIV></DIV><!-- Indeterminate -->            =
+    =20
+<DIV class=3D"progressbar-indeterminate" =
+id=3D"indeterminate-page-loader" style=3D"display: none;">
+<DIV class=3D"progressbar-container animate">
+<DIV class=3D"progressbar-bar"=20
+style=3D"width: 100%;"><SPAN></SPAN></DIV></DIV></DIV></DIV>
+<DIV class=3D"uxquotes">
+<P><EM class=3D"quote-text">"Design creates stories, and stories create =
+memorable=20
+experiences, and great experiences have this innate ability to change =
+the way in=20
+which we view our world."</EM><BR>=E2=80=94Christian Saylor</P>
+<P class=3D"quote-url"><A =
+href=3D"http://www.inspireux.com/2008/10/27/great-experiences-have-an-inn=
+ate-ability-to-change-the-way-we-view-the-world/"=20
+target=3D"_blank" rel=3D"noopener noreferrer">Read more at=20
+inspireUX</A></P></DIV></DIV></DIV>
+<SCRIPT>!function(e){function t(e,t,n){var o=3Dnew =
+XMLHttpRequest;o.addEventListener("progress",function(e){e.lengthComputab=
+le&&t(e.loaded,e.total)},!1),o.addEventListener("error",function(){n(new =
+Error("Error loading =
+"+e))},!1),o.addEventListener("load",function(t){200!=3D=3Do.status?n(new=
+ Error("Error (status "+o.status+") loading =
+"+e)):n(null,t.target.responseText)},!1),o.open("GET",e),o.send()}functio=
+n =
+n(e){"loading"!=3Ddocument.readyState?e():document.addEventListener("DOMC=
+ontentLoaded",e)}function =
+o(e,t){e.classList?e.classList.add(t):e.className+=3D" "+t}function =
+l(e){var =
+t=3Ddocument.createElement("script");t.type=3D"text/javascript";try{t.app=
+endChild(document.createTextNode(e))}catch(n){t.text=3De}document.body.ap=
+pendChild(t)}function d(e,t){var =
+n=3Ddocument.createElement("link");n.href=3De,n.type=3D"text/css",n.rel=3D=
+"stylesheet",n.media=3D"screen,print",t&&(n.onload=3Dt),document.getEleme=
+ntsByTagName("head")[0].appendChild(n)}function a(e,t){var =
+n=3Ddocument.createElement("script");n.setAttribute("src",e),n.setAttribu=
+te("type","text/javascript"),t&&(n.onload=3Dfunction(){t(null)},n.onerror=
+=3Dfunction(){t(new Error("Error loading =
+"+e))}),document.body.appendChild(n)}function =
+r(e){document.getElementById("page-loader-status").innerHTML=3De}function=
+ =
+i(){document.getElementById("indeterminate-page-loader").style.display=3D=
+"",document.getElementById("determinate-page-loader").style.display=3D"no=
+ne"}function =
+s(){document.getElementById("indeterminate-page-loader").style.display=3D=
+"none",document.getElementById("determinate-page-loader").style.display=3D=
+""}function =
+c(e){document.getElementById("page-progressbar").style.width=3D100*e+"%"}=
+function =
+u(){document.getElementById("indeterminate-page-loader").style.display=3D=
+"none",document.getElementById("determinate-page-loader").style.display=3D=
+"none"}function m(e,t){f=3Dt,v=3De,g()}function =
+p(e,t){E=3Dt,I=3De,g()}function g(){if(null!=3D=3Df&&null!=3D=3DE){var =
+e=3D(v+I)/(f+E);c(e)}}function =
+y(){null!=3D=3DL&&null!=3D=3Db&&(r("Initializing=E2=80=A6"),i(),l(L),l(b)=
+)}var =
+f=3Dnull,E=3Dnull,v=3D0,I=3D0,L=3Dnull,b=3Dnull;n(function(){function =
+n(e){r('<b style=3D"color: red;">Error loading =
+resources</b>'),u(),console.log(e.message)}o(document.getElementById("loa=
+ding-mask"),"load"),e.cssUrl&&d(e.cssUrl),r("Loading=E2=80=A6"),s(),c(0),=
+e.replaceScriptTag?(i(),a(e.libJsUrl,function(t){t?n(t):a(e.jsUrl,functio=
+n(e){e&&n(e)})})):(t(e.libJsUrl,m,function(e,t){e?n(e):(L=3Dt,y())}),t(e.=
+jsUrl,p,function(e,t){e?n(e):(b=3Dt,y())}))})}({"cssUrl":"https://static.=
+balsamiq.cloud/1274/style.css","replaceScriptTag":true,"libJsUrl":"https:=
+//static.balsamiq.cloud/1274/cloud-libraries.js","jsUrl":"https://static.=
+balsamiq.cloud/1274/cloud-main-pubnub.js"});</SCRIPT>
+ </BODY></HTML>
